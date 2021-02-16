@@ -1,10 +1,14 @@
-# cupertino_store
+# Flutter Cupertino Store 🛍️ 
 
-Building a Store App using  Cupertino Widgets.
+Building a Store App using  Cupertino Widgets (that looks totally at home on an iOS device)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for Building a Store App using  Cupertino Widgets.
+
+If you want a “big picture” understanding of the Cupertino Store, start with
+- [Lab: Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino#0)
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +18,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots 🎉
+
+<div align="center">
+<img src="/screenshots/step1.png" alt="Main Screen" />
+</div>
