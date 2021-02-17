@@ -1,6 +1,6 @@
 # Flutter Cupertino Store 🛍️ 
 
-Building a Store App using  Cupertino Widgets (that looks totally at home on an iOS device)
+Building a Store App using  Cupertino Widgets (that looks totally at home on an iOS device).
 
 ## Getting Started
 
