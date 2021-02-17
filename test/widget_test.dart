@@ -14,10 +14,19 @@
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:cupertino_store/app.dart';
+import 'package:cupertino_store/model/app_state_model.dart';
+import 'package:provider/provider.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (tester) async {
-    await tester.pumpWidget(CupertinoStoreApp());
-    expect(find.text('Cupertino Store'), findsOneWidget);
+    await tester.pumpWidget(
+      ChangeNotifierProvider<AppStateModel>(
+        create: (context) => AppStateModel()..loadProducts(),
+        child: CupertinoStoreApp(),
+      ),
+    );
+    expect(find.text('Products'), findsOneWidget);
+    expect(find.text('Search'), findsOneWidget);
+    expect(find.text('Cart'), findsOneWidget);
   });
 }
