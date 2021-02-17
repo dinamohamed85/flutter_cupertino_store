@@ -1,10 +1,10 @@
 # Flutter Cupertino Store 🛍️ 
 
-Building a Store App using  Cupertino Widgets (that looks totally at home on an iOS device).
+Building a Store App in Cupertino Widgets (that looks totally at home on an iOS device).
 
 ## Getting Started
 
-This project is a starting point for Building a Store App using  Cupertino Widgets.
+This project is a starting point for Building a Store App in Cupertino Widgets.
 
 If you want a “big picture” understanding of the Cupertino Store, start with
 - [Lab: Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino#0)
