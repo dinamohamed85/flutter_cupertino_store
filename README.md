@@ -21,6 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots 🎉
 
-<div align="center">
-<img src="/screenshots/step1.png" alt="Main Screen" />
-</div>
+<table >
+ <tr>
+  <td><img src='screenshots/product-list-tab.png' width='250' /></td>
+  <td><img src='screenshots/search-tab.png' width='250' /></td>
+  <td><img src='screenshots/shopping-cart-tab.png' width='250' /></td>
+ </tr>
+</table>
